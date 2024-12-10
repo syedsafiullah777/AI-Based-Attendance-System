@@ -26,7 +26,7 @@ To run this project, you need the following libraries:
    - Change all paths in the code to match your system's paths (e.g., the path to `TrainingImage` and `TrainingImageLabel`).
 
 4. **Database Setup**:  
-   - Install **WampServer** or **XAMPP** for MySQL.
+   - Install MySQL.
    - Open **phpMyAdmin** and create the following databases:
      - `manually_fill_attendance` (for storing manual attendance data).
      - `Face_reco_fill` (for storing automatic attendance data).
